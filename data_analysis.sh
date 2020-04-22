@@ -1,4 +1,4 @@
-# Change in the first line P2
+# Second change to the first line P2
 #!/bin/bash 
 #This will contain my new analytical method! 
 
